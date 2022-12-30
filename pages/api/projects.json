@@ -32,8 +32,7 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "Portifolio inspirado no VS Code",
     "tags": ["NextJS", "CSS"],
-    "source_code": "https://github.com/kinmane/kinmane.github.io",
-    "demo": "http://kinmane.github.io/"
+    "source_code": "https://github.com/kinmane/kinmane.github.io"
   },
   {
     "id": 5,
@@ -41,7 +40,8 @@
     "image": "",
     "description": "Calculadora desenvolvida em JS",
     "tags": ["JS", "HTML", "CSS"],
-    "source_code": "https://github.com/kinmane/CalculadoraJS"
+    "source_code": "https://github.com/kinmane/CalculadoraJS",
+    "demo": "https://kinmane.github.io/CalculadoraJS/"
   },
   {
     "id": 6,
