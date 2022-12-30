@@ -61,15 +61,15 @@
     width: 40px;
     padding: 0.6rem;
   }
+}
 
-  @media screen and (min-width: 700px) {
-    .sidebar {
-      width: 12vw;
-    }
-    .icon {
-      height: 32px;
-      width: 32px;
-      padding: 0.6rem;
-    }
+@media screen and (min-width: 700px) {
+  .sidebar {
+    width: 12vw;
+  }
+  .icon {
+    height: 32px;
+    width: 32px;
+    padding: 0.6rem;
   }
 }
