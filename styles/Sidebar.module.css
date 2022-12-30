@@ -61,4 +61,12 @@
     width: 40px;
     padding: 0.6rem;
   }
+
+  @media (min-width: 700px) {
+    .sidebar {
+      max-width: 670px;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+  }
 }
