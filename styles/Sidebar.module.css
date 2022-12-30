@@ -68,5 +68,10 @@
       flex-direction: row;
       flex-wrap: wrap;
     }
+    .icon {
+      height: 32px;
+      width: 32px;
+      padding: 0.6rem;
+    }
   }
 }
