@@ -62,11 +62,9 @@
     padding: 0.6rem;
   }
 
-  @media (min-width: 700px) {
+  @media screen and (min-width: 700px) {
     .sidebar {
-      max-width: 670px;
-      flex-direction: row;
-      flex-wrap: wrap;
+      width: 12vw;
     }
     .icon {
       height: 32px;
