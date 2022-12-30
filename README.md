@@ -4,7 +4,7 @@ Um portifolio baseado no Visual Studio Code, desenvolvido com NextJS e feito o d
 
 ## Features
 
-- Themes and customizations
+- Temas
   - GitHub Dark (default)
   - Dracula
   - Ayu
