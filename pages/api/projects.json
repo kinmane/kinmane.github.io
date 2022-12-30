@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Pokedex",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "Pokedex desenvolvida com JS puro",
+    "tags": ["JS", "HTML", "CSS", "PokeAPI"],
+    "source_code": "https://github.com/kinmane/PokedexJS",
+    "demo": "https://kinmane.github.io/PokedexJS/"
+  },
+  {
+    "id": 2,
+    "name": "ToDoJS",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "ToDo desenvolvido em JS puro",
+    "tags": ["JS", "HTML", "CSS"],
+    "source_code": "https://github.com/kinmane/ToDoJS",
+    "demo": "https://kinmane.github.io/ToDoJS/"
+  },
+  {
+    "id": 3,
+    "name": "SnakeJS",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Jogo da cobrinha desenvolvido em JS",
+    "tags": ["JS", "HTML", "CSS"],
+    "source_code": "https://github.com/kinmane/SnakeJS",
+    "demo": "https://kinmane.github.io/SnakeJS/"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Portifolio inspirado no VS Code",
+    "tags": ["NextJS", "CSS"],
+    "source_code": "https://github.com/kinmane/kinmane.github.io",
+    "demo": "http://kinmane.github.io/"
+  },
+  {
+    "id": 5,
+    "name": "CalculadoraJS",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Calculadora desenvolvida em JS",
+    "tags": ["JS", "HTML", "CSS"],
+    "source_code": "https://github.com/kinmane/CalculadoraJS"
+  },
+  {
+    "id": 6,
+    "name": "CalculadoraCSharp",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Calculadora desenvolvida em CSharp",
+    "tags": ["C#"],
+    "source_code": "https://github.com/kinmane/CalculadoraCSharp"
+  },
+  {
+    "id": 7,
+    "name": "SnakePython",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Jogo da cobrinha desenvolvida em Python",
+    "tags": ["Python"],
+    "source_code": "https://github.com/kinmane/SnakePython"
+  },
+  {
+    "id": 8,
+    "name": "CalculadoraPython",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Calculadora desenvolvida em Python",
+    "tags": ["Python"],
+    "source_code": "https://github.com/kinmane/CalculadoraPython"
+  }
+]
