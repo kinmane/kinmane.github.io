@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Pokedex",
-    "image": "https://imgur.com/kbGs6zH.png",
+    "image": "",
     "description": "Pokedex desenvolvida com JS puro",
     "tags": ["JS", "HTML", "CSS", "PokeAPI"],
     "source_code": "https://github.com/kinmane/PokedexJS",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "ToDoJS",
-    "image": "https://imgur.com/tAZotn3.png",
+    "image": "",
     "description": "ToDo desenvolvido em JS puro",
     "tags": ["JS", "HTML", "CSS"],
     "source_code": "https://github.com/kinmane/ToDoJS",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "SnakeJS",
-    "image": "https://imgur.com/8FFqaX8.png",
+    "image": "",
     "description": "Jogo da cobrinha desenvolvido em JS",
     "tags": ["JS", "HTML", "CSS"],
     "source_code": "https://github.com/kinmane/SnakeJS",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "CalculadoraJS",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "image": "",
     "description": "Calculadora desenvolvida em JS",
     "tags": ["JS", "HTML", "CSS"],
     "source_code": "https://github.com/kinmane/CalculadoraJS"
@@ -46,7 +46,7 @@
   {
     "id": 6,
     "name": "CalculadoraCSharp",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "image": "",
     "description": "Calculadora desenvolvida em CSharp",
     "tags": ["C#"],
     "source_code": "https://github.com/kinmane/CalculadoraCSharp"
@@ -54,7 +54,7 @@
   {
     "id": 7,
     "name": "SnakePython",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "image": "",
     "description": "Jogo da cobrinha desenvolvida em Python",
     "tags": ["Python"],
     "source_code": "https://github.com/kinmane/SnakePython"
@@ -62,7 +62,7 @@
   {
     "id": 8,
     "name": "CalculadoraPython",
-    "image": "https://imgur.com/mKkz0iz.png",
+    "image": "",
     "description": "Calculadora desenvolvida em Python",
     "tags": ["Python"],
     "source_code": "https://github.com/kinmane/CalculadoraPython"
