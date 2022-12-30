@@ -9,6 +9,8 @@ const AboutPage = () => {
         <li>TypeScript</li>
         <li>HTML5</li>
         <li>CSS</li>
+        <li>CSS</li>
+        <li>NextJS</li>
         <li>React</li>
         <li>React Native</li>
         <li>Angular</li>
