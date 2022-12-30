@@ -63,7 +63,7 @@
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (max-width: 450px) {
   .sidebar {
     width: 12vw;
   }
